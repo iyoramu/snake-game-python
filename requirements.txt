@@ -1,0 +1,12 @@
+# Snake Game in Python - Dependencies
+# Pinned versions ensure reproducible builds
+
+# Core Game Engine
+pygame==2.5.2  # SDL-based multimedia library
+
+# Development & Testing (optional)
+pytest==8.0.0  # Only needed if adding unit tests
+flake8==6.1.0  # Only needed for linting
+
+# Runtime requirements
+python>=3.8  # Minimum Python version
